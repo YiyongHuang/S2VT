@@ -20,6 +20,8 @@ scikit-image
 5.Run train.py to train the model  
 6.Run test.py to generate the caption of test videos  
 
+or you can directly extract features from a video and generate captions using test_from_video.py
+
 **Acknowledgement**
 
 Some code copy from vijayvee(https://github.com/vijayvee/video-captioning)
