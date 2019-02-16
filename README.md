@@ -28,7 +28,7 @@ You can download the extracted video features at [Features_VGG](https://pan.baid
 unzip it to "Data/Features_VGG"
 
 ##Result 
-We use some metrics to evaluate the model:  
+The val.json is the grundtruth of test dataset, the result.json is the generate result. We use the metrics of WangLei(https://github.com/wangleihitcs/CaptionMetrics)  
 ![](https://github.com/YiyongHuang/S2VT/blob/master/evaluation.jpg)
 
 ## Acknowledgement
