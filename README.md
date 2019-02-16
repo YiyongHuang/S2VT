@@ -27,6 +27,10 @@ You can download the MSVD dataset [here](http://www.cs.utexas.edu/users/ml/clamp
 You can download the extracted video features at [Features_VGG](https://pan.baidu.com/s/1mylv8GCHKlVl4E2L8xVd7w), and 
 unzip it to "Data/Features_VGG"
 
+##Result 
+We use some metrics to evaluate the model:  
+![](https://github.com/YiyongHuang/S2VT/blob/master/evaluation.jpg)
+
 ## Acknowledgement
 
 Some code copy from vijayvee(https://github.com/vijayvee/video-captioning)
