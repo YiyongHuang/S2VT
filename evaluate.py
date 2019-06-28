@@ -1,4 +1,4 @@
-from bi_module import *
+from module import *
 from utils import *
 import json
 
